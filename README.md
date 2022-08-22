@@ -3,3 +3,7 @@
 ## :triangular_flag_on_post:About
 :bird:Game "Flappy bird" using the library LibGdx
 ## :white_check_mark:Goals
+<ul>
+    <li>studying the LibGdx library</li>
+    <li>programming skills training</li>
+</ul>
