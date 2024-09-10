@@ -1,4 +1,4 @@
-<a href="https://ibb.co/ZfNnBKd"><img src="https://i.ibb.co/D1Lx9k4/flappy.png" alt="flappy" border="0"></a>
+<img src="https://github.com/user-attachments/assets/138e97d2-631e-46a5-b952-af8dd736c027" width="400" height="720"/>&nbsp;
 
 ## :triangular_flag_on_post:About
 :bird: Entertainment game "Flappy bird" 
